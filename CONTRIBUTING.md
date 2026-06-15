@@ -1,6 +1,7 @@
 # Contributing to the AI SDK
 
 We deeply appreciate your interest in contributing to our repository! Whether you're reporting bugs, suggesting enhancements, improving docs, or submitting pull requests, your contributions help improve the project for everyone.
+Thank you for helping make the project more accessible and useful to the community.
 
 ## Reporting Bugs
 
